@@ -1,9 +1,14 @@
-Approximate Word Count: 129
-Approximate Sentence Count: 5
-Average Letter Count: 6.407692307692308
-Average Sentence Length: 21.666666666666668
-------------------------------------------------------------------
-Approximate Word Count: 284
-Approximate Sentence Count: 11
-Average Letter Count: 5.249122807017544
-Average Sentence Length: 23.916666666666668
+The Lakers signing George and James, both of whom can become unrestricted free agents if they decline 2018-19 player options, is easy enough. They can create sufficient cap room merely by waiving forward Luol Deng and stretching his contract, then renouncing the rights to their free agents.
+
+Adding Leonard to the mix makes the math trickier -- even before we account for the fact that he's still under contract with the San Antonio Spurs, who would have to sign off on a trade. (More on that in a bit.)
+
+Though Leonard is making substantially less than the current max salary at $20.1 million for 2018-19, combining his salary with max ones for LeBron (an estimated $35.4 million) and George (estimated $30.3 million because he's two years shy of the experience necessary for the largest max bracket for players with 10-plus years in the league) puts the Lakers over $85 million in salary without considering any other players or the remaining amount of Deng's stretched salary.
+
+That tight math makes it all but imperative the Lakers send Deng to San Antonio in a Leonard trade before signing George and James. How might that work?
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Approximate Word Count: 192
+Approximate Sentence Count: 10
+Average Letter Count: 4.865284974093265
+Average Sentence Length: 19.7
